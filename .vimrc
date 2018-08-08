@@ -20,4 +20,5 @@ augroup ProjectDrawer
   autocmd!
   autocmd VimEnter * :Vexplore
 augroup END
+hi cursorcolumn guibg=#434443
 hi SpecialKey ctermfg=Grey39 guifg=#666666
